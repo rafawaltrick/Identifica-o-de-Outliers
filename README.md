@@ -17,7 +17,7 @@ Este é um programa simples em Python para identificar outliers em dados de tran
 3. Navegue até o diretório do projeto:
 
     ```
-    cd nome-do-repositorio
+    cd Identifica-o-de-Outliers
     ```
 
 4. Execute o script Python `analise.py`:
