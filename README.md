@@ -11,7 +11,7 @@ Este é um programa simples em Python para identificar outliers em dados de tran
 2. Clone este repositório em sua máquina local usando o seguinte comando:
 
     ```
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/rafawaltrick/Identifica-o-de-Outliers/tree/main)
     ```
 
 3. Navegue até o diretório do projeto:
