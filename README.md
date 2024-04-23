@@ -1,5 +1,3 @@
-Claro! Abaixo está um exemplo de como você pode criar um README.md para o GitHub explicando como executar o código Python de identificação de outliers e sua explicação:
-
 ---
 
 # Identificação de Outliers em Transações Bancárias
@@ -44,10 +42,4 @@ O código Python `analise.py` realiza as seguintes etapas:
 
 5. Identifica e lista os outliers, se houver, com base nos limites definidos.
 
-## Contribuições
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
----
-
-Você pode adaptar este README.md conforme necessário, incluindo informações adicionais, instruções específicas para o ambiente de desenvolvimento, ou qualquer outra coisa relevante para o seu projeto.
